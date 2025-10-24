@@ -1,5 +1,5 @@
 using UnityEngine;
-[AddComponentMenu("DangSon/ObstacleMovement")]
+[AddComponentMenu("NhungHo/ObstacleMovement")]
 public class ObstacleMovement : MonoBehaviour
 {
 
